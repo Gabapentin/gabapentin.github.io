@@ -1,19 +1,43 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://">
   <url>
     <loc />
-    <lastmod>2013-03-27</lastmod>
+    <lastmod>2017-11-29</lastmod>
   </url>
-  <url>
+  <url oeid="990254a5-1909-4b87-8ea4-3cda66f6b6fa" oelang="DEFAULT">
     <loc>Contact.htm</loc>
-    <lastmod>2013-03-27</lastmod>
+    <lastmod>2017-11-29</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="Contact.htm" />
+    <xhtml:link rel="alternate" hreflang="it" href="Contact.it.htm" />
   </url>
-  <url>
+  <url oeid="990254a5-1909-4b87-8ea4-3cda66f6b6fa" oelang="IT">
+    <loc>Contact.it.htm</loc>
+    <lastmod>2017-11-29</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="Contact.htm" />
+    <xhtml:link rel="alternate" hreflang="it" href="Contact.it.htm" />
+  </url>
+  <url oeid="a55407f6-949a-4895-a563-33b57b0e64db" oelang="DEFAULT">
     <loc>Example.htm</loc>
-    <lastmod>2013-03-27</lastmod>
+    <lastmod>2017-11-29</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="Example.htm" />
+    <xhtml:link rel="alternate" hreflang="it" href="Example.it.htm" />
   </url>
-  <url>
+  <url oeid="a55407f6-949a-4895-a563-33b57b0e64db" oelang="IT">
+    <loc>Example.it.htm</loc>
+    <lastmod>2017-11-29</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="Example.htm" />
+    <xhtml:link rel="alternate" hreflang="it" href="Example.it.htm" />
+  </url>
+  <url oeid="42411f4c-c9f5-47a3-9689-be663998695a" oelang="DEFAULT">
     <loc>index.htm</loc>
-    <lastmod>2013-03-27</lastmod>
+    <lastmod>2017-11-29</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="index.htm" />
+    <xhtml:link rel="alternate" hreflang="it" href="index.it.htm" />
+  </url>
+  <url oeid="42411f4c-c9f5-47a3-9689-be663998695a" oelang="IT">
+    <loc>index.it.htm</loc>
+    <lastmod>2017-11-29</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="index.htm" />
+    <xhtml:link rel="alternate" hreflang="it" href="index.it.htm" />
   </url>
 </urlset>
